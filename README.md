@@ -13,6 +13,7 @@
    - 9 değeri 7 ve 8'den büyüktür. 8'in sağında bulunur.
    - 4 değeri 7,5'den küçük, 1 ve 3'den büyüktür. 3'ün sağında bulunur.
    - 2 değeri 7,5,1,3 ten küçüktür. 3'ün solunda bulunur.
+            
                    7
                   / \
                  5   8
